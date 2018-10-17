@@ -11,4 +11,6 @@ nothing
 
 We added hello world.cpp
 
+hi world
+
 Issue created by shnoh
