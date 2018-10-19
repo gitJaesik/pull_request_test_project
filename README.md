@@ -18,3 +18,5 @@ Issue created by shnoh
 I like it
 
 i like this
+
+감도 튜닝을 합니다.
